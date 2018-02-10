@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4BEAB67B-ED0B-4A5B-85FB-EC59A8D87656}</ProjectGuid>
+    <ProjectGuid>{1C5F5A97-56F8-4377-89A3-E8C9D520B8A8}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>PMS5003TReader</RootNamespace>
